@@ -1,0 +1,10 @@
+# Health Assistant Requirements
+# Install dengan: pip install -r requirements.txt
+
+# Core dependencies
+pygame>=2.5.0          # Untuk sound alerts
+requests>=2.31.0       # Untuk Telegram API
+numpy>=1.24.0          # Untuk generate sound waves
+
+# Optional dependencies untuk development
+# pytest>=7.4.0        # Untuk testing (optional)
