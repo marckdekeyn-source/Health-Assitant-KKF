@@ -5,8 +5,8 @@
     "daily_water_target_ml": 2000
   },
   "telegram": {
-    "bot_token": "8539174268:AAE26H7gyKQKe6MAywAWnsS6QdyVBRdur_I",
-    "chat_id": "1250352771",
+    "bot_token": "PASTE_YOUR_BOT_TOKEN_HERE",
+    "chat_id": "PASTE_YOUR_CHAT_ID_HERE",
     "enabled": true
   },
   "sound": {
